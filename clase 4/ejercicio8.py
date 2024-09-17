@@ -5,4 +5,4 @@ ld2=int(input("Ingrese otro lado del rectangulo"))
 
 sup = ld1*ld2
 
-print("la superficie del rectangulo es: {sup}")
+print("la superficie del rectangulo es:  {sup}")
