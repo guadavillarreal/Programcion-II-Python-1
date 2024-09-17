@@ -1,0 +1,90 @@
+Clase 7
+Ejercicios combinados
+Ejercitación
+Los ejercicios indicados en negrita son de desafío se recomiendan hacerlos al final 
+tras lograr hacer todos los demás.
+Desarrolle un programa en Python que resuelva las siguientes situaciones 
+problemáticas.
+1. Dado un numero entero positivo N, presentar por pantalla un mensaje que 
+indique si dicho número es o no un numero primo
+2. Ingresar N números enteros, presentar por pantalla el valor del mayor numero 
+ingresado y la posición en que se ingresó (tener en cuenta la posibilidad de que 
+todos los números ingresados pueden ser igual)
+3. Dado N número enteros, presentar por pantalla el menor número impar 
+ingresado, en caso de que no se hubiera ingresado por lo menos dos números
+impares distintos, presentar el mensaje correspondiente
+4. Dados N números, presentar por pantalla la cantidad de series crecientes de 
+números cargados.
+5. Dado un numero natural de 4 o más dígitos, presentar por pantalla su invertido.
+6. Se ingresan N número enteros, presentar el promedio de los pares y el promedio 
+de los impares.
+7. Se ingresan N valores numéricos. Se dese saber cuántos son positivos, cuantos 
+negativos y cuantos iguales a cero.
+8. Se ingresan N valores numéricos y un valor particular X, determinar cuántas
+veces está presente el valor X entre los N números ingresados.
+9. Dado N números determinar la cantidad de números impares ingresados en 
+posición impar.
+10.Se ingresan N valores numéricos. Determinar el mayor y el menor de los valores 
+ingresados.
+11.Se ingresan N valores numéricos. Determinar la posición y el valor del mayor 
+numero par y el menor impar de los valores ingresados. Presentar por pantalla los 
+resultados.
+12.Dado un numero N, presentar por pantalla la cantidad de dígitos que posee el 
+mismo
+13.Se ingresan N pares de valores, donde el primer valor indica la edad de la persona 
+y el segundo su altura. Debe presentarse por pantalla:
+a) La mayor edad ingresada y el orden en que ingreso.
+b) La menor altura ingresada y el orden en que ingreso
+c) El promedio de las edades y de las alturas
+14.Dados N1 menor que N2, ambos enteros y dado un numero x cualquier, presentar 
+por pantalla los múltiplos de x comprendidos entre N1 y N2
+15.Dado un número de 4 dígitos, presentar por pantalla todos sus divisores.
+16.Ingresar un numero natural N. Sin dividir ni multiplicar determinar si ese valor es 
+o no par. Presentar por pantalla el resultado. No está permitido usar mod ni div.
+17.Dados N1 menor que N2, diseñar un algoritmo que sume los números enteros 
+impares comprendidos entre N1 y N2. Presentar por pantalla dicha suma.
+18.Un centro numérico es un número que separa una lista de números enteros 
+(comenzando en 1) en dos grupos de números, cuyas sumas son iguales. El 
+primer centro numérico es el 6, el cual separa la lista (1 a 8) en los 
+grupos:(1,2,3,4,5) y (7,8) cuyas sumas son ambas iguales a 15. El segundo 
+centro numérico es el 35, el cual separa la lista (1 a 49) en los grupos: (1 a 34) 
+y (36 a 49) cuyas sumas son ambas iguales a 595. Escribir un programa que 
+calcule los N primeros centro numéricos.
+19.Escriba un programa que permita introducir un numero entero positivo y 
+determinar lo siguiente:
+a) Si el entero es un numero primo
+b) Si el entero es un numero de Fibonacci
+Escribir el programa de tal manera que se ejecute de forma repetida hasta que se 
+ingrese un valor de cero para el valor de entrada.
+20.Ingresar N números, presentar por pantalla la posición y el valor del mayor 
+numero primo ingresado. En caso de no haber ingresado ningún número primo, 
+presentar el mensaje “No se ingresó ningún número primo”
+21.Se ingresan N números naturales, presentar por pantalla la cantidad de números
+primos ingresados.
+22.Diseñar un algoritmo que presente por pantalla los N primero números primos.
+23.Ingresar números mientras sean distintos de cero. Determinar cuántas
+series de números decrecientes fueron ingresadas, no considerar el cero al 
+momento de contar las series.
+Ejemplo: Nos dan los valores 4,3,2,1,3,2,1,2,7,8,6,0 vemos que las series 
+fueron 4,3,2,1 luego 3,2,1 y finalmente 8,6 entonces tenemos tres series.
+24.Se ingresan N números enteros y presentar por pantalla cuantas series de 
+números impares aparecen
+25.Ingresar N números enteros y presentar por pantalla cuantas series de 
+números impares decrecientes aparecen.
+26.Ingresar N números naturales y presentar por pantalla cuantas series de 
+números pares consecutivos aparecen
+27.Un numero perfecto es un entero positivo que es igual a la suma de todos los 
+enteros positivos (excluido el mismo) que son divisores del número. El primer 
+número perfecto es 6 ya que los divisores de 6 son 1,2,3 y 1+2+3 = 6
+scribir un programa que encuentre los N primeros números perfectos
+28.Se ingresan N números naturales, presentar por pantalla el invertido del número
+compuesto conformado. Cada valor ingresado puede tener cualquier cantidad 
+de dígitos.
+29.Dado un valor limite L, encuentre el valor de N de manera tal que se cumpla 
+que: 1+2+3+4+...+N <=L
+30.Un pobre le dijo a un rico “cada día le pagare $100 a cambio usted me dará el 1° 
+día $1, el 2° día $2 el 3° día $4 el 4° día $8 y así sucesivamente hasta terminar el 
+mes de 31 días, es decir cada día el doble del anterior”.
+Calcular a) Las cantidades totales entregadas por el rico y el pobre b) A partir de 
+que día el rico le dio más dinero en forma acumulada al pobre, si es que esto 
+ocurrió.

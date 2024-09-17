@@ -1,0 +1,27 @@
+1. Presentar por pantalla los siete primeros números enteros positivos
+2. Diseñar un algoritmo que presente por pantalla las 10 primeras tablas de 
+multiplicar
+3. Presentar por pantalla los N primeros números de la seria de Fibonacci
+4. Escribir un programa que presente por pantalla los números del 1 al 20
+5. Presentar por pantalla los N primeros números pares
+6. Dado un numero natural N, presentar en forma decreciente los N primeros 
+números
+7. Ingresar N números, presentar por pantalla la suma y el promedio de ellos.
+8. Escribir un programa que presente por pantalla, la tabla de multiplicar solicitada 
+por el usuario.
+9. Introducir un numero N, menor que 40, y un carácter. Diseñar un algoritmo que 
+dibuje una línea en pantalla, que incluya N veces el carácter.
+10.Como variante del ejercicio anterior diseñar un procedimiento que dibuje diez 
+líneas en lugar de una.
+Tecnicatura Universitaria en Programación - Programación II
+Prof. Fernández - josefrancisco.fernandez@frt.utn.edu.ar
+11.Ingresar números mientras sean distintos de cero, presentar por pantalla el 
+promedio de estos.
+12.Dado dos números enteros N1 y N2, encontrar la suma de los números
+comprendidos entre N1 y N2
+13.Si se ingresa un numero natural presentar por pantalla el desarrollo del factorial
+de dicho número, como así también el valor del factorial.
+14.Realizar un algoritmo que permita realizar una multiplicación usando el método
+de sumas sucesivas, presentar el resultado por pantalla.
+15.Realizar un algoritmo que permita realizar una división usando el método de 
+restas sucesivas, presentar el cociente y el resto de pantalla
