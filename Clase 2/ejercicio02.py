@@ -33,5 +33,5 @@ else:
 print("El primer numero ingresado es: ", n1)
 print ("La suma de los numeros comprendidos entre ellos es: ",n3)
 print (n3)
-print ("El segundo numero ingresado es: {n2}")
+print ("El segundo numero ingresado es:{n2}")
 
