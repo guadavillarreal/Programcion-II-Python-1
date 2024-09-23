@@ -3,16 +3,19 @@
 
 n =int (input("Ingrese un número "))
 x= 2
-b=True
+b=0
+mult=0
 
 while x<n:
     if n % x==0 :
-        b= True
+        b= 1
     else: 
-        b= False
+        b= 0
     x=x+1
+    if b == 1:
+        mult = mult+1
 
-if b == True:
+if mult>0:
     print("El número ingresado no es primo")
 else:
     print("El número ingresado es primo")
