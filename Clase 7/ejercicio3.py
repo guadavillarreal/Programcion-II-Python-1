@@ -2,29 +2,28 @@
 #ingresado, en caso de que no se hubiera ingresado por lo menos dos números
 #impares distintos, presentar el mensaje correspondiente
 
-n= int(input("Inrese la cantidad de número a evaluar"))
-num=0 #numero ingresado
-men = 100 #menor numero impar ingresado
-c= 0 #contador de vueltas
-cimp=2 #ver si es impar
-imp=0 #impar
-conti=0 #cantidad de impares ingresados
-
+n= int(input("Ingrese la cantidad de números a evaluar "))
+c=0 #contador de vueltas a evaluar
+cp=0 #contador de primos
+num=0 
+cimp=0
+mnpri=1
 while c<n:
-    num=int(input("Ingrese el número a evaluar "))
+    num= int(input("Ingrese un número "))
     while cimp<num:
-        if num % cimp ==0:
-            print("el numero no es impar")
+        if num % cimpr == 0:
+            print("El número ingreso es par ")
+            cimp=num
         else:
-            if num<men:
-                men=num;
-                conti=conti+1
-        cimp=cimp+1
+            if num<mnpri:
+                mnpri=num
+                cp=cp+1
+        cimp = cimp+1
     c=c+1
 
-if conti<1:
-    print("La cantidad de números impares ingresados es menor a 2")
+if cp>1:
+    print("Se ingreso por lo menos dos números primos ")
+else:
+    print ("Se ingreso menos de dos números primos")
 
-print("El menor número impar ingresado es: ", men)
-
-
+print("El menor número primo ingresado es ",mnpri)
