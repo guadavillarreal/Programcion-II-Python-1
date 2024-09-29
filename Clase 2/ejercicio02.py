@@ -1,6 +1,5 @@
-#dado dos enteros en
-# cuentre la suma de los
-#números comprendidos entre ellos
+#dado dos enteros 
+# encuentre la suma de los números comprendidos entre ellos
 #FUNCIONA PERO NO GUARDA EL VALOR DEL PRIMER NUMERO INGRESADO
 
 n1 = int (input("Ingrese un número: "))
