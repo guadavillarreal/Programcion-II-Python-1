@@ -2,4 +2,21 @@
 # construya con ellos un número compuesto
 #el profe creo que lo resolvio en clases verlo
 
-print("Ingrese números enteros positivos")
+n=0
+while n>=0:
+   n=int(input("Ingrese la cantidad de números para trabajar"))
+cont=0
+while cont<n:
+    num=int(input("Ingrese un número entero positivo"))
+    if cont==0:
+        nc=num
+    else:
+         aux=num
+         cc=0
+         while 0<aux:
+            cc=cc+1
+            aux=aux/10
+         nc=nc*(10**cc+num)
+    c=c+1
+
+print(cc)
