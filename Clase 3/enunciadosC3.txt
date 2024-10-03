@@ -1,0 +1,18 @@
+Clase 3
+
+Mediante el uso de diagramas de flujo o seudocódigo resuelva los siguientes 
+problemas informáticos
+
+1. Dado un numero entero positivo no múltiplo de 10 presente en pantalla el valor 
+dado y su invertido
+2. Dado N enteros positivos, determina cuantos son tales, que sus dos últimas 
+cifras son números primos.
+3. Dado N enteros positivos comprendidos entre 10000 y 99999 para cada uno de 
+ellos invierta la primera con su última cifra y preséntelo en pantalla junto al valor 
+original
+Ejemplo: si me dan el 34282 el valor que debo devolver es 24283 junto al valor 
+original
+4. Dada la fecha de nacimiento de una persona en formato DD/MM/AAAA y la fecha 
+actual en el mismo formato indique su edad. 
+5. Dado N enteros positivos, determinar cuántos son tales que la suma de sus cifras 
+da un numero primo
