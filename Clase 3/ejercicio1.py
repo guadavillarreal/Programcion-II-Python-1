@@ -11,12 +11,11 @@ inv = 0
 aux=n1
 c=0
 while n1>0:
-    inv= inv*10+(n1%10)#0+(1)=5#   5*10+(0)=50
-    n1=n1//10          #51/10=5#   5/10=0
+    inv= inv*10+(n1%10)#0+(37%10)=0+7  · 7x10+(3%10)=70+3=73
+    n1=n1//10          #37:10=3        · 3:10=0
 
 
-#n2=n1**(-1)
-print(aux)
-print(inv)
+print("El número ingresado es: ",aux)
+print("Su invertido es: ", inv)
 
 
